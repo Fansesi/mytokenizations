@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "custom_tokenizations"
+name = "mytokenizations"
 version = "1.0.0"
 description = "Custom tokenizations"
 readme = {file = "README.md", content-type = "text/markdown"}
